@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+.idea/
+.vscode/
+Projects/NewsEDAProject/raw_news_data.csv
+Projects/NewsEDAProject/cleaned_news_data.csv
+Projects/NewsEDAProject/*.png
+*.log
