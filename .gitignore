@@ -4,6 +4,7 @@ __pycache__/
 venv/
 .env
 .env.*
+!.env.example
 .idea/
 .vscode/
 Projects/NewsEDAProject/raw_news_data.csv
